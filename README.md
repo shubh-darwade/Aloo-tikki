@@ -1,3 +1,2 @@
-###### This file is to write the story.
-**Mam I just write project story**
-*I am world-class chef I am makng a dish*
+# Story
+###**I am a world famous chef! I have create the recipe for a food dish and upload it to Github.**
