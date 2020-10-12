@@ -1,1 +1,2 @@
-# This file is to write down the ingredients
+# Ingredients
+1.Potato
